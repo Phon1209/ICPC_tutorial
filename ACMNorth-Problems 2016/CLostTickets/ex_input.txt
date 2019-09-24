@@ -1,0 +1,17 @@
+3
+Erik Charles
+4
+C Jean Erik
+G Erik Jean
+G Charles Logan
+C Logan Charles
+Natasha
+5
+G Natasha Steve Tony Bruce
+C Steve Natasha
+G Steve Bucky
+C Bucky Steve
+G Bucky Tony Bruce
+Scott Hank
+1
+G Scott Hank

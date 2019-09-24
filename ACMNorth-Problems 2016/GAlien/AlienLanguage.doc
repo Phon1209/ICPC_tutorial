@@ -1,0 +1,25 @@
+﻿Alien Alphabet Order
+
+You’re a language scientist, or linguistics,  at NASA. Currently, you’re in a secret mission because NASA just made a first contact with an alien race. Well, as you seen from many movies, there is a higher chance to have a big war with the them. So, your job is to avoid that by telling them “don’t fight, let be friend”. However, we don’t know their language. What NASA has is a sequence of signal, which they’re represented with english chracter for simplicity. Your job is to find the ordering of characters (i.e., the collating sequence) in alien language. In particular, your program will take a set of strings that has been sorted according to a particular collating sequence and determine what that sequence is.
+
+Input
+
+The input consists of multiple set of test-cases. The first line will be an integer dictate the number of test-cases. Each test-case consists of an ordered list of strings of uppercase letters, one string per line. Each string contains at most 100 characters. The end of the list is isgnalled by a line that is the single character ‘#’. The list size is at most 100 strings. The list will imply a complete ordering among those letters that are used. A simple into file is shown.
+2
+XWY
+ZX
+ZXY
+ZXW
+YWWX
+#
+ZX
+ZW
+XW
+#
+
+Output
+
+For each test-case, your output should be a single line containing uppercase letters in the order that specifies the collating sequenced sued in produce the input data file. Correct output for the data file above is shown below.
+
+XZYW
+ZXW

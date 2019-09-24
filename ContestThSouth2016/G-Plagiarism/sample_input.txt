@@ -1,0 +1,19 @@
+6
+4 2
+xxxxaabbxxxx
+ababxx
+2 2
+aaaaabbbbb
+abab
+5 3
+abcdefghxx
+bbcceeffxx
+2 0
+aospdiopasdiopasdiopasdiopcmiopqwidpocqiwop
+asiopdcimqwopcmidqwpocdimqwopdcimqwopcdqwimocpiqmw
+3 1
+qwecmoiqweopmiecopqwimcopqwiemcoppq
+qpoweicmqwopemiqwiemcopimopimopwqicicmepmopimeopimcopiceopwieopcmqwiimcoepimeopwqiemoqwpciopwciecopqwicmwopecimqwopeiqwcie
+6 2
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
