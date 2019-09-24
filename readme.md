@@ -10,4 +10,3 @@ This repo included the content of
 - ```Graph Theory```
 - ```Tip for ACM-ICPC```
 - etc.
--
