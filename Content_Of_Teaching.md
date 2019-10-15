@@ -40,3 +40,49 @@
         - `\'` พิมพ์ `'`
         - `\"` พิมพ์ `"`
 -
+
+
+
+
+```cpp
+vector<pair<int,int> > v[10005];
+
+int D[1005][1005]
+
+vector<pair<pair<int,int> ,int> > e;
+
+int main()
+{
+	while(m--)
+	{
+		sint3(x,y,w);
+		v[x].push_back(make_pair(y,w));
+		v[y].push_back(make_pair(x,w));
+
+
+		D[x][y]=w;
+		D[y][x]=w;
+
+		e.push_back(make_pair(make_pair(x,y),w));
+		e.push_back(make_pair(make_pair(y,x),w));
+	}
+}
+```
+```cpp
+vector<int> v[2005];
+int visit[1005];
+bool dfs(int t,int u)
+{
+	visit[t]=1;
+	bool found = false;
+	for(int i=0;i<v[t].size();i++)
+	{
+		int y=v[t][i];
+		if(y==u)return true;
+		if(visit[y]==true)continue;
+		if(dfs(y,u)==true)found=true;
+	}
+	return found;
+}
+
+```
